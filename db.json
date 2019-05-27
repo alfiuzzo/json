@@ -1,0 +1,77 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "user": "alfiuzzo",
+      "location": "Roma",
+      "email": "giulio.alfieri@integris.it",
+      "password": "batman03",
+      "nascita": "15-07-1990",
+      "altezza": "171",
+      "peso": "71",
+      "sesso": "M",
+      "livello": "0",
+      "mesi": "3",
+      "distanza": "42",
+      "allenamenti": "3"
+    },
+
+    {
+      "id": 2,
+      "user": "Meucci",
+      "location": "Pisa",
+      "email": "d.meucci@mail.it",
+      "password": "DaniMeucci660",
+      "nascita": "7-10-1985",
+      "altezza": "178",
+      "peso": "63",
+      "sesso": "M",
+      "livello": "3",
+      "mesi": "3",
+      "distanza": "42",
+      "allenamenti": "4"
+    },
+
+    {
+      "id": 3,
+      "user": "Longarini",
+      "location": "Milano",
+      "email": "Longa@mail.it",
+      "password": "Campione03",
+      "nascita": "25-05-1964",
+      "altezza": "176",
+      "peso": "80",
+      "sesso": "M",
+      "livello": "2",
+      "mesi": "3",
+      "distanza": "42",
+      "allenamenti": "3"
+    }
+  ],
+  "sessioni": [
+    {
+      "id": 1,
+      "id_user": "2",
+      "km_totali": "23,22",
+      "hr_medio": "146,42",
+      "vel_media": "17,43",
+      "passo_medio": "00:03:28",
+      "passo_max": "00:02:46",
+      "hr_max": "164",
+      "stanchezza": "0,6",
+      "data": "180610"
+    },
+    {
+      "id": 2,
+      "id_user": "3",
+      "km_totali": "13.84",
+      "hr_medio": "151.87",
+      "vel_media": "10.95",
+      "passo medio": "00:05:40",
+      "passo_max": "00:03:53",
+      "hr_max": "172",
+      "stanchezza": "0,8",
+      "data": "190327"
+    }
+  ]
+}
